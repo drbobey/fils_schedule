@@ -1,0 +1,493 @@
+{
+  "freeDays": ["2026-04-10", "2026-04-13", "2026-04-14", "2026-05-01"],
+  "tests": [
+    {
+      "id": "mdse-lab-modeling-test-week9",
+      "className": "MDSE Lab",
+      "group": "both",
+      "week": 9,
+      "title": "Modeling Test (20% grade)",
+      "notes": "Each student must check when to come to the test on this [Link to test planning](https://curs.upb.ro/2025/pluginfile.php/292216/mod_resource/content/0/MDSE%20Test%20Schedule%202026.pdf).\n\nIt is mandatory to respect the schedule, otherwise there is no place in the\nlaboratory.\n\nAll students should be present 15 minutes in advance, at\n17:45, to be ready and start working at 18:00. Students who arrive later\ncannot pass the test.\n\nYou typically work on the computers available in the laboratory, but you cand also bring your own laptops if you have worked like this previously."
+    },
+    {
+      "id": "mdse-lab-modeling-test-week10",
+      "className": "MDSE Lab",
+      "group": "both",
+      "week": 10,
+      "title": "Modeling Test (20% grade)",
+      "notes": "Each student must check when to come to the test on this [Link to test planning](https://curs.upb.ro/2025/pluginfile.php/292216/mod_resource/content/0/MDSE%20Test%20Schedule%202026.pdf).\n\nIt is mandatory to respect the schedule, otherwise there is no place in the\nlaboratory.\n\nAll students should be present 15 minutes in advance, at\n17:45, to be ready and start working at 18:00. Students who arrive later\ncannot pass the test.\n\nYou typically work on the computers available in the laboratory, but you cand also bring your own laptops if you have worked like this previously."
+    },
+    {
+      "id": "dse-online-presentation-phase1-week11",
+      "className": "DSE Lab",
+      "group": "both",
+      "week": 11,
+      "title": "Online - Presentation of Phase 1",
+      "notes": "It will be online. If you don't present, you won't get graded for the Phase 1 report.\nTeacher will create a excel document where we choose the presentation order.\n\nTeacher will start a call by herself on Teams and will start calling students individually based on the order on the excel document.\n\nEach student has 3 minutes to present what they have done (installed this, these are the packages, this is how it works) + everyone will receive 1 question\nYou must have the framework installed, just like in the paper that you uploaded on Moodle.\n\nIf you are marked with a specific color in the excel document it means you didn't answer teacher's call."
+    },
+    {
+      "id": "dse-test-10pct-week13",
+      "className": "DSE",
+      "group": "both",
+      "week": 13,
+      "title": "Test DSE (10% grade)",
+      "notes": "Physical (in person) at the faculty.\n\nMultiple choice, 1 correct answer, 10 questions, 20 minutes"
+    },
+    {
+      "id": "dse-final-project-presentation-week14",
+      "className": "DSE",
+      "group": "both",
+      "week": 14,
+      "title": "Presentation of final project",
+      "notes": "This presentation is private (only in front of the course professor)\nYou will be added in the meeting by the course professor.\nIt is required of you to be available (online) throughout the chosen interval (e.g., 4-5 PM interval).\nIf a student is absent, the next one in that interval will be contacted.\n\nEach presentation will last for about 5 minutes.\nNo PPT needed! Just share your screen to show the live project and be ready to pull up the code, scripts, or config files"
+    },
+    {
+      "id": "sm-lab-project-bighw-week13",
+      "className": "SM Lab",
+      "group": "both",
+      "week": 13,
+      "title": "Project (Big HW 1+2) presentation (20% grade)",
+      "notes": "Split in 2 groups, half present on 19 and other half present on 26\nPhysical presentation, short presentation, can be powerpoint or a file with notes\n\nChoose your group and topic in the Google sheet posted on Whatsapp by Magdalena. Find the message by searching for content on Whatsapp: \"After talking to the lab teacher, I created this doc for choosing the teams and topics for the Software meth Final project. \"\n\nWrite your names in the Student 1 and 2 columns.\n\nThe final project can be done individually or in groups of 2, you can choose one of the topics suggested below or come up with your own proposal that incorporates the requested requirements and uses the elements covered in the laboratory.\nThe project can be presented either in two stages, depending on progress (Big HW 1 and Big HW 2), or in its entirety in a single presentation. The total score is 20 points.\n\nYou can start presenting as early as next week, teacher is at the faculty starting from 5 PM at the same room as the lab"
+    },
+    {
+      "id": "sm-lab-project-bighw-week14",
+      "className": "SM Lab",
+      "group": "both",
+      "week": 14,
+      "title": "Project (Big HW 1+2) presentation (20% grade)",
+      "notes": "Split in 2 groups, half present on 19 and other half present on 26\nOnline presentation, short presentation, can be powerpoint or a file with notes\n\nChoose your group and topic in the Google sheet posted on Whatsapp by Magdalena. Find the message by searching for content on Whatsapp: \"After talking to the lab teacher, I created this doc for choosing the teams and topics for the Software meth Final project. \"\n\nWrite your names in the Student 1 and 2 columns.\n\nThe final project can be done individually or in groups of 2, you can choose one of the topics suggested below or come up with your own proposal that incorporates the requested requirements and uses the elements covered in the laboratory.\nThe project can be presented either in two stages, depending on progress (Big HW 1 and Big HW 2), or in its entirety in a single presentation. The total score is 20 points.\n\nYou can start presenting as early as next week, teacher is at the faculty starting from 5 PM at the same room as the lab"
+    },
+    {
+      "id": "mdse-case-study-presentation-week14-group-b",
+      "className": "MDSE",
+      "group": "both",
+      "week": 14,
+      "title": "Case study questions, no presentation (20% grade)",
+      "notes": "Both groups must be present.\nTeacher will only ask questions, no presentation will be done.\n\nPlease respect the schedule below posted by professor.\nLink to schedule: [link](https://curs.upb.ro/2025/pluginfile.php/310618/mod_resource/content/0/MDSE-E%20Case%20Study%20Schedule%2027%20May%202026.pdf)"
+    },
+    {
+      "id": "research-2-presentation-week14",
+      "className": "Research 2",
+      "group": "both",
+      "week": 14,
+      "title": "Research presentation",
+      "notes": ""
+    }
+  ],
+  "exams": [
+    {
+      "id": "csw-exam-2026-06-08",
+      "subject": "CSW",
+      "group": "both",
+      "title": "Exam",
+      "deadline": "2026-06-08",
+      "start": "17:00",
+      "notes": "No threshold for exam"
+    },
+    {
+      "id": "dse-exam-2026-06-02",
+      "subject": "DSE",
+      "group": "both",
+      "deadline": "2026-06-02",
+      "start": "17:00",
+      "notes": ""
+    },
+    {
+      "id": "atcn-exam-2026-06-05",
+      "subject": "ATCN",
+      "group": "both",
+      "deadline": "2026-06-05",
+      "start": "18:00",
+      "notes": "Thanks to Nouran for notes!\n\nExam might be at around 18:00 but depends on when secretary finds a free room, bring paper to write the answers on (3-4 papers), exam duration is 1.5 hours.\n\n17-20 written questions, not multiple choice, questions about commands and what they do mostly, what is inside a vagrantfile, yaml file, questions that ask what the difference is between 2 things, he might give us some calculations (like the ones from the first 2 courses) we need to know the formulas for them.\n\nClosed book, no resources allowed."
+    },
+    {
+      "id": "sm-exam-2026-06-11",
+      "subject": "SM",
+      "group": "both",
+      "deadline": "2026-06-11",
+      "start": "16:00",
+      "notes": "Thanks to Nouran for notes!\n\nWe'll have some theory questions from the course, and for the practical part some questions about the lab, schemas, architectures, things like that where we have to draw and explain, but she said we won't have to write any code (the exam is on paper)"
+    },
+    {
+      "id": "mdse-exam-2026-06-15-group-a",
+      "subject": "MDSE",
+      "group": "A",
+      "deadline": "2026-06-15",
+      "start": "8:00/9:00",
+      "notes": "Probably due to room capacity, we will be split into 2 groups just like in the MDSE modeling test:\n8:00-9:00 first half\n9:00-10:00 second half"
+    },
+    {
+      "id": "mdse-exam-2026-06-15-group-b",
+      "subject": "MDSE",
+      "group": "B",
+      "deadline": "2026-06-15",
+      "start": "8:00/9:00",
+      "notes": "Probably due to room capacity, we will be split into 2 groups just like in the MDSE modeling test:\n8:00-9:00 first half\n9:00-10:00 second half"
+    }
+  ],
+  "homeworks": [
+    {
+      "id": "dse-phase1",
+      "subject": "DSE",
+      "title": "[Phase 1] Installation and functional verification",
+      "deadline": "2026-03-31",
+      "notes": "The description for Phase 1 of the project has been published on Moodle.\nPlease follow this link for more information: [link](https://curs.upb.ro/2025/mod/assign/view.php?id=144024).\n\nDeadlines (for Moodle upload):\nSoft: 31 March (100%)\nHard (Cut-off date): 15 April (-1/10 per non-national-holiday day - with the condition that the maximum penalty for delays is 5/10 points)"
+    },
+    {
+      "id": "dse-phase2-analyze-current-solutions",
+      "subject": "DSE",
+      "title": "[Phase 2] Analyze the current solutions",
+      "deadline": "2026-04-28",
+      "notes": "The description for Phase 2 of the project has been published on Moodle.\nPlease follow this link for more information: [link](https://curs.upb.ro/2025/mod/assign/view.php?id=159483).\n\nDeadlines:\n- Soft deadline: 28 April (100%)\n- Cut-off date (Hard deadline): 10 May\nLate upload penalty: 0.5 points from 10 points / non-holiday day - with the condition that the maximum penalty for delays is 5 out of the 10 points"
+    },
+    {
+      "id": "dse-phase3-intermediary-work-report",
+      "subject": "DSE",
+      "title": "[Phase 3] Intermediary work report",
+      "deadline": "2026-05-13",
+      "group": "both",
+      "notes": "The description for Phase 3 of the project has been published on Moodle.\nPlease follow this link for more information: [link](https://curs.upb.ro/2025/mod/assign/view.php?id=170070).\n\nDeadlines:\n- Soft deadline: 13 May  (100%)\n- Cut-off date (Hard deadline): 20 May\nLate upload penalty: 0.5 points from 10 points/day"
+    },
+    {
+      "id": "dse-course-test-details-may-19-registration",
+      "subject": "DSE",
+      "group": "both",
+      "title": "Course Test Details – May 19th [Registration required]",
+      "deadline": "2026-05-18",
+      "notes": "As previously discussed, our course test will take place on May 19th from 17:00 to 18:00 in Canti CTI. I will notify you in advance if there are any changes to the location.\nTo prepare for the test, please use the lecture slides available on Moodle: [link](https://curs.upb.ro/2025/mod/folder/view.php?id=126719)\n\n[IMPORTANT] Registration for the test!\nIf you plan to take this test, you must register in advance via this online form:\n[link](https://curs.upb.ro/2025/mod/choice/view.php?id=180441) The form closes on May 19th at 11:00 AM. If you registered but realize later that you can't make it to the test, please make sure to update your status to \"No\" by the same deadline."
+    },
+    {
+      "id": "dse-final-presentation-registration-may-26",
+      "subject": "DSE",
+      "group": "both",
+      "title": "Registration for project final presentation",
+      "deadline": "2026-05-26",
+      "notes": "We will hold the final presentations on May 19 and May 26.\nThese sessions will be private and will focus primarily on reviewing your code/setup, similar to Phase 1 evaluations.\nIf, you haven't registered yet and would like to give the final presentation, please add your name to one of the available slots.\nPlease do this before May 26.\nTo register check professor's announcement on Teams or click this link: [link](https://teams.microsoft.com/l/message/19:1a98a6ca3c9a41c6beb537d23e5159cd@thread.tacv2/1778529375634?tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac&groupId=a7da6275-69e7-4865-897b-01cc95edd1e1&parentMessageId=1778529375634&teamName=12-FILS-M-CTI-ISP-A1-S2-DSE-E-2025&channelName=Project&createdTime=1778529375634)"
+    },
+    {
+      "id": "dse-phase4-final-report",
+      "subject": "DSE",
+      "group": "both",
+      "title": "[Phase 4] Final report",
+      "deadline": "2026-05-28",
+      "notes": "The description for Phase 3 of the project has been published on Moodle.\nPlease follow this link for more information: [link](https://curs.upb.ro/2025/mod/assign/view.php?id=182809).\n\nDeadlines:\n- Soft deadline: 28 May  (100%)\n- Cut-off date (Hard deadline): 29 May (at noon)\nLate upload penalty: 0.5 points from 10 points/day\nNo final presentation: -4p/10p"
+    },
+    {
+      "id": "csw-lab-assignment1",
+      "subject": "CSW Lab",
+      "title": "Lab assignment 1 - Functions and Animal class",
+      "deadline": "2026-03-18",
+      "notes": "We will present our assignments during the lab. The teacher may require us to make changes to the code while presenting so he knows we know how to code.\n\nFor this first assignment:\n\n1. Make two functions that\n1.1 Compute the maximu element of a list of strings\n1.2 Implement another operation on the list at your choice - there can not be two identical solutions\n1.3 Show the execution of the two funtions on a list\n\n2. Make a class Animal that has\n2.1 Three variables: AnimalType as a string and two extra variables at your choice - there can not be two identical classes\n2.2 Implement functions that put values and get values for the three variables plus the constructor\n2.3 Implement two extra operations on the variables - two choices can not be identical\n2.4 Show the execution of the functions on two objects"
+    },
+    {
+      "id": "csw-lab-ontologies-jena",
+      "subject": "CSW Lab",
+      "title": "Ontologies and Jena",
+      "deadline": "2026-05-13",
+      "group": "both",
+      "notes": "1) Create in Protege an ontology regarding School that includes:\n\n- Teachers, Students and Other Staff as categories\n\n- Include 4-5 types of Teachers\n\n- Include 2-3 types of OtherStaff\n\n- Include 5 Individual as Teachers, 4 as Students and 3 as Subcategories of OtherStaff\n\n- 2 Relations between Classes\n\n- 10 Data Properties\n\nNote: There can not be two identical Ontologies\n\nSave it as an RDF\n\n\n\n2) In NetBeans, Jena read the ontology, display its statements and display all the predicates of the individuals that you create\n\n\n\n3) Create via programing an ontology in a similar fashion as we created \"mates\" at laboratory. You need to create a class regarding animals with 6 property like name, species, etc. Save it\n\n4) Merge the two ontologies: one from Protege and one from programing.\n\n5) List all the statements of the new ontology."
+    },
+    {
+      "id": "csw-lab-nlp-classifiers",
+      "subject": "CSW Lab",
+      "title": "NLP + Classifiers",
+      "deadline": "2026-04-15",
+      "notes": "I. NLP part\n*****\nFor this assignment you will do the followings\n1. Select \n  - 3 texts related to depression from Internet and save it in three separate files\n  - 3 texts from Internet from different posts of persons and save it in three separate files\n2. For each of the 6 files from above do the folowing:\n   - split the text in sentences\n   - split the sentences in words\n   - Remove punctuation\n   - Remove stop-words\n   - do the stemming \n   - Compute the frequencies of the stems\n   - Save the frequencies in a list of pairs (stem, frequency)\n   - Compute the first 20 top frequencies from   list of pairs and save it in a new list\n   - Print the new list\n   \nII. Clasifiers part\n******\"\"\nI. With the words frequencies from the previous assignment, for the 6 files (3 depressed, 3 non-depressed) prepare a CVS file (input.txt) with the following format\nCategory  Label word1 word 2 ....\n1      depressed 0.3 0.4 ..\n0 non-depressed 0.5 067..\n....\nNotes:\n1) word1 word2 ... are the words that comes from the union of the first 5 words from each file from the 6\n2) numbers in the example (0.3, 0.4...) are just to show an example. You need to put the real numbers from the frequencies of the words that are coming from the python code from the previous assignment  from the run from the  6 files\nII. Modify the code from classifiers laboratory to run on the new file input.txt and to classify the 6 files as coming from depressed and non-depressed persons"
+    },
+    {
+      "id": "dse-choose-theme",
+      "subject": "DSE",
+      "title": "Choose your project theme",
+      "deadline": "2026-03-17",
+      "notes": "Choose your project theme: [link](https://curs.upb.ro/2025/mod/choice/view.php?id=137309)"
+    },
+    {
+      "id": "atcn-vm-install",
+      "subject": "ATCN",
+      "title": "Install virtual machines (Vagrant)",
+      "deadline": "2026-03-19",
+      "notes": "If anything is unclear, check the ATCN moodle.\n\nThanks to Mihai for describing the steps:\n\nTo install the virtual machines using the script\n- make a directory on your pc\n- throw the file in there from moodle\n- command prompt/bash/etc. navigate to folder and run the command mentioned ( probably \"vagrant init\", it is probably mentioned in course 4)\n- the scrip will install the virtual machines for you\n- each vm is about 1gb\n- it will create 2 machines at the same time\n- if you change parameters you can create a different number of virtual machines( not recommended if you don't know what you are doing )\n- it will be ubuntu\n- at the end is should say smth like \"ssh successfull\" or \"machine create successfully\", around there, and then return to command prompt\n- if that does not happen wait for a couple of minutes\n- if it still doesnt succed/appears frozen stop it, might have been a missmatch between vagrant and vm\n- then uninstall everything and look for a different versions or vagrant and vm\n- each machine is set at 1gb of ram( check parameters ) and 1 core\n- after everything is installed run in cmd \"vagrant halt\" to shut down the machines so they dont use resources ( they will remain installed, it's just like shutting down your computer, but you shut down the vm's)\n- use \"vagrant up\" to start the vm's"
+    },
+    {
+      "id": "atcn-lab4-moodle",
+      "subject": "ATCN",
+      "title": "Lab 4 on Moodle",
+      "deadline": "2026-04-02",
+      "notes": "Homework requirements: Lab 4 on Moodle [link](https://curs.upb.ro/2025/pluginfile.php/240815/mod_folder/content/0/4%20-%20Lab%20Computer%20Networks.pdf?forcedownload=1) \n\nHomework is done in groups (that have been chosen on the Excel document). Only 1 person from the group uploads the homework on Moodle. Mention names of other team members in the document uploaded. Add screenshots of commands' output.\n\nUpload homework into Assignment 1."
+    },
+    {
+      "id": "atcn-lab4-moodle-extended-deadline",
+      "subject": "ATCN",
+      "title": "Lab 4 on Moodle - Extended deadline",
+      "deadline": "2026-04-24",
+      "notes": "This is for people that did not upload Assignment 1 in time. You won't get additional extensions to the deadline.\n\nHomework requirements: Lab 4 on Moodle [link](https://curs.upb.ro/2025/pluginfile.php/240815/mod_folder/content/0/4%20-%20Lab%20Computer%20Networks.pdf?forcedownload=1) \n\nHomework is done in groups (that have been chosen on the Excel document). Only 1 person from the group uploads the homework on Moodle. Mention names of other team members in the document uploaded. Add screenshots of commands' output.\n\nUpload homework into Assignment 1."
+    },
+    {
+      "id": "atcn-lab7-moodle",
+      "subject": "ATCN",
+      "title": "Lab 7 on Moodle",
+      "deadline": "2026-04-30",
+      "notes": "Homework requirements: Lab 7 on Moodle [link](https://curs.upb.ro/2025/pluginfile.php/240815/mod_folder/content/0/7%20-%20Lab%20Computer%20Networks.pdf?forcedownload=1)\n\nHomework is done in groups (that have been chosen on the Excel document). Only 1 person from the group uploads the homework on Moodle. Mention names of other team members in the document uploaded.\nAdd screenshots of commands' output or browser window.\n\nUpload homework into Assignment 2."
+    },
+    {
+      "id": "atcn-lab9-moodle",
+      "subject": "ATCN",
+      "title": "Lab 9 on Moodle",
+      "deadline": "2026-05-15",
+      "group": "both",
+      "notes": "Homework requirements: Lab 9 on Moodle [link](https://curs.upb.ro/2025/pluginfile.php/240815/mod_folder/content/0/9%20-%20Lab%20Computer%20Networks.pdf?forcedownload=1)\n\nHomework is done in groups (that have been chosen on the Excel document). Only 1 person from the group uploads the homework on Moodle. Mention names of other team members in the document uploaded.\nAdd screenshots of commands' output or browser window.\n\nUpload homework into Assignment 3."
+    },
+    {
+      "id": "atcn-project-computer-networks-moodle",
+      "subject": "ATCN",
+      "title": "Project Computer Networks on Moodle",
+      "deadline": "2026-05-29",
+      "group": "both",
+      "notes": "Project requirements: Computer Networks on Moodle [link](https://curs.upb.ro/2025/pluginfile.php/240820/mod_folder/content/0/Project%20Computer%20Networks.pdf?forcedownload=1)\n\nHomework is done in groups (that have been chosen on the Excel document). Only 1 person from the group uploads the homework on Moodle. Mention names of other team members in the document uploaded.\nAdd screenshots of commands' output or browser window.\n\nUpload project into \"Project\" assignment."
+    },
+    {
+      "id": "sm-lab1-lab2",
+      "subject": "SM",
+      "title": "Lab 1 + Lab 2 on Moodle",
+      "deadline": "2026-03-12",
+      "notes": "Lab1 + Lab2 on Moodle\nRequirements inside\n - Lab 1 - Introduction to LLM and Prompt Engineering File PDF\n - Laborator 2 - Interacting with LLM via APIs File PDF\n - Laborator 2 -demo & activities File TXT\n\nEach lab archive should have:\n2 folders: 1 for Lab, 1 for Homework\n\nArchive called Labx_YourName\nex:\nLab1_JohnDoe\nLab2_JohnDoe"
+    },
+    {
+      "id": "sm-lab3-moodle",
+      "subject": "SM",
+      "title": "Lab 3 on Moodle",
+      "deadline": "2026-03-23",
+      "notes": "Requirements inside 2 files:\n- HW -> Lab3: Building an AI Microservice & Embeddings and Semantic Similarity File\n- Lab -> Lab3: Demo and Exercises File \n\nEach lab archive should have:\n2 folders: 1 for Lab, 1 for Homework\n\nArchive called Labx_YourName"
+    },
+    {
+      "id": "sm-lab4-moodle",
+      "subject": "SM",
+      "title": "Lab 4",
+      "deadline": "2026-04-07",
+      "notes": "Requirements inside 2 files:\n- HW -> Lab4: RAG & NoSQL Database File PDF\n- Lab -> Lab4: Demos and Exercises File PDF\n\nEach lab archive should have:\n2 folders: 1 for Lab, 1 for Homework\n\nArchive called Labx_YourName"
+    },
+    {
+      "id": "sm-bighw-upload-moodle-may-26",
+      "subject": "SM",
+      "group": "both",
+      "title": "Project (Big HW1+2) upload on Moodle",
+      "deadline": "2026-05-26",
+      "notes": "Link to assignment on Moodle: [link](https://curs.upb.ro/2025/mod/assign/view.php?id=183741)\n\nUntil 6:00 PM"
+    },
+    {
+      "id": "sm-upload-missing-labs-may-26",
+      "subject": "SM",
+      "group": "both",
+      "title": "Upload missing labs/HWs/Certificates on Moodle",
+      "deadline": "2026-05-26",
+      "notes": ""
+    },
+    {
+      "id": "sm-lab5-group-a",
+      "subject": "SM Lab (Group A)",
+      "title": "Lab 5",
+      "deadline": "2026-04-14",
+      "notes": "Requirements inside 2 files:\n- HW -> Lab 5-Building a REST API (Backend) &AI Integration in the Backend File PDF\n- Lab -> Lab 5- Demos and Exercises File PDF\n\nEach lab archive should have:\n2 folders: 1 for Lab, 1 for Homework\n\nArchive called Labx_YourName"
+    },
+    {
+      "id": "sm-lab5-group-b",
+      "subject": "SM Lab (Group B)",
+      "title": "Lab 5",
+      "deadline": "2026-04-21",
+      "notes": "Requirements inside 2 files:\n- HW -> Lab 5-Building a REST API (Backend) &AI Integration in the Backend File PDF\n- Lab -> Lab 5- Demos and Exercises File PDF\n\nEach lab archive should have:\n2 folders: 1 for Lab, 1 for Homework\n\nArchive called Labx_YourName"
+    },
+    {
+      "id": "sm-lab6-group-a",
+      "subject": "SM Lab (Group A)",
+      "title": "Lab 6",
+      "deadline": "2026-04-28",
+      "notes": "Requirements inside 2 files:\n- HW -> Lab 6 - React JS: API Consumption and React: Routing, UI and Forms File PDF\n- Lab -> Lab 6 - Demos and Exercises File PDF\n\nEach lab archive should have:\n2 folders: 1 for Lab, 1 for Homework\n\nArchive called Labx_YourName"
+    },
+    {
+      "id": "sm-lab6-group-b",
+      "subject": "SM Lab (Group B)",
+      "title": "Lab 6",
+      "deadline": "2026-05-05",
+      "notes": "Requirements inside 2 files:\n- HW -> Lab 6 - React JS: API Consumption and React: Routing, UI and Forms File PDF\n- Lab -> Lab 6 - Demos and Exercises File PDF\n\nEach lab archive should have:\n2 folders: 1 for Lab, 1 for Homework\n\nArchive called Labx_YourName"
+    },
+    {
+      "id": "sm-lab7-group-a",
+      "subject": "SM Lab (Group A)",
+      "title": "Lab 7",
+      "deadline": "2026-05-12",
+      "notes": "Requirements inside 2 files:\n- HW -> Lab 7 - Integration of LLM in Frontend & RAG in Application and Final Optimizations File PDF\n- Lab -> Lab 7 - demos and exercises File PDF\n\nEach lab archive should have:\n2 folders: 1 for Lab, 1 for Homework\n\nArchive called Labx_YourName"
+    },
+    {
+      "id": "sm-lab7-group-b",
+      "subject": "SM Lab (Group B)",
+      "title": "Lab 7",
+      "deadline": "2026-05-19",
+      "notes": "Requirements inside 2 files:\n- HW -> Lab 7 - Integration of LLM in Frontend & RAG in Application and Final Optimizations File PDF\n- Lab -> Lab 7 - demos and exercises File PDF\n\nEach lab archive should have:\n2 folders: 1 for Lab, 1 for Homework\n\nArchive called Labx_YourName"
+    },
+    {
+      "id": "research-2-send-progress-coordinator",
+      "subject": "Research 2",
+      "title": "Send research progress to coordinator",
+      "deadline": "2026-05-11",
+      "notes": "All students are kindly asked to send their progress to their coordinator with regards to Research 2"
+    },
+    {
+      "id": "mdse-team-creation-case-study-topic",
+      "subject": "MDSE",
+      "title": "Team creation + choose topic for case study",
+      "deadline": "2026-04-17",
+      "notes": "You can work in teams of 2 students. Both students should participate to the presentation in the last 2 weeks, according to a schedule. Edit your team name and select the case study topic [here](https://ctipub-my.sharepoint.com/:x:/g/personal/anca_ionita_upb_ro/IQDArT_z9tbfQos37kbnS_R9AXgc-_-rvB7lQ5QsuJ5KAMY?e=PHE1hY)\nYou should get connected with your student account for this.\nSee also [MDSE Case Study Requirements 2026](https://curs.upb.ro/2025/mod/resource/view.php?id=163041)"
+    },
+    {
+      "id": "mdse-case-study-delivery-may-25",
+      "subject": "MDSE",
+      "group": "both",
+      "title": "Case study delivery for all students",
+      "deadline": "2026-05-25",
+      "notes": "Link to assignment on Moodle: [link](https://curs.upb.ro/2025/mod/assign/view.php?id=178746)"
+    },
+    {
+      "id": "mdse-lab-recover-1-practical-work",
+      "subject": "MDSE Lab",
+      "title": "Possibility to recover 1 practical work",
+      "deadline": "2026-04-21",
+      "notes": "Possibility to recover 1 practical work - in week 9, April 22 at 16:00 during the lecture hours - only for students with absences motivated by objective conditions.\n\n[Link to register](https://curs.upb.ro/2025/mod/questionnaire/view.php?id=156890)"
+    },
+    {
+      "id": "csw-protege",
+      "subject": "CSW",
+      "title": "Protegé setup and packages",
+      "deadline": "2026-03-30",
+      "notes": "Thanks to Nouran and Mihai for the notes:\n\nWe will use Protege:\n[Protegé](https://protege.stanford.edu/)\n\nOnline version:\n[Protegé software / online](https://protege.stanford.edu/software.php)\n\nTeacher wants us to all have the same version of the software. I recall her saying it doesn't work on Mac.\nThere's also an online version of Protege, if you have mac you can use that, or install a VM with windows and install it there (or an ubuntu / linux installer)\n\nScreenshots with what packages we need to install: search on the Whatsapp group for \"protege\" and go to message from Mihai on 16.03 \"Screenshots showing what packages you should install after opening protege\""
+    },
+    {
+      "id": "atcn-choose-group",
+      "subject": "ATCN",
+      "title": "Choose your project group",
+      "deadline": "2026-03-05",
+      "notes": "Choose your project group for ATCN:\n[Sign-up sheet](https://ctipub.sharepoint.com/:x:/s/12filsmctiispa1s2atcne_3484/IQAj_L3Q50u_Qa-ydD_WDgISAcL7YBUTeMznTh8PFXst9B4?e=xaSsl5)"
+    }
+  ],
+  "courseNotes": {
+    "ATCN": "Grading:\n40% exam\n30% lab (3 HW assignments, worth 10% each, each one needs a report with screenshots of the code as well as it running)\n30% project (a combination of skills / work needed for the 3 HW assignments - he'll give us more details around week 8)",
+    "ATCN Lab": "Grading:\n40% exam\n30% lab (3 HW assignments, worth 10% each, each one needs a report with screenshots of the code as well as it running)\n30% project (a combination of skills / work needed for the 3 HW assignments - he'll give us more details around week 8)",
+    "CSW": "Labs are mandatory, can't take exam without labs.\n\nGrading:\n50% Lectures\n50% Labs\n\nMandatory: to pass you must take at least half of the score for laboratory and for the final exam\nA small bonus will be given for the presence\n\nCourse takes only 1 hour with no breaks.",
+    "CSW Lab": "Labs are mandatory, can't take exam without labs.\n\nGrading:\n50% Lectures\n50% Labs\n\nMandatory: to pass you must take at least half of the score for laboratory and for the final exam\nA small bonus will be given for the presence\n\nCourse takes only 1 hour with no breaks.",
+    "MDSE": "Grading:\n60% Semester activities (20% Lab 20% Test 20% case study)\n40% Exam\n\nCourse attendance doesn't matter for final grade and there's no minimum attendance requirement for it. Lab attendance matters.\n\nCondition for taking the exam: obtain at least 30 points (out of 60) for the activity during the semester classes (before the exams period)",
+    "MDSE Lab": "Grading:\n60% Semester activities (20% Lab 20% Test 20% case study)\n40% Exam\n\nCondition for taking the exam: obtain at least 30 points (out of 60) for the activity during the semester classes (before the exams period)",
+    "DSE": "Grading:\n40% Project\n20% Course (10% test + 10% attendance/activity)\n40% Exam\n\nProject has 4 stages/phases (10% each)\nCourse + Project + Exam + Bonus must be >= 5\n\nMore details about each project phase, course, exam, bonus etc on Moodle > Slides > C0.Course-Orientation-2025_2026-DSE.pdf\n\nKahoot during course",
+    "DSE Lab": "Grading:\n40% Project\n20% Course\n40% Exam\n\nProject has 4 stages/phases (10% each)\nCourse: 10% test + 10% attendance/activity\n\nCourse + Project + Exam + Bonus must be >= 5\n\nMore details about each project phase, course, exam, bonus etc on Moodle > Slides > C0.Course-Orientation-2025_2026-DSE.pdf\n\nKahoot during course",
+    "SM": "Grading:\n10% Lab\n20% Big Hw1, Hw2 (10% each)\n20% Tests and activities during the course\n50% Final exam\n\nMust have half of your lab attendance face-to-face\n\nThe lab is always hybrid (so online too) but keep in mind you are required to have half of your attendance physically so calculate your attendance accordingly.",
+    "SM Lab": "Grading:\n10% Lab\n20% Big Hw1, Hw2 (10% each)\n20% Tests and activities during the course\n50% Final exam\n\nMust have half of your lab attendance face-to-face\n\nThe lab is always hybrid (so online too) but keep in mind you are required to have half of your attendance physically so calculate your attendance accordingly."
+  },
+  "attendanceByWeek": {
+    "CSW": {
+      "6": { "type": "in-person", "location": "CJ205", "start": "18:00", "end": "20:00" },
+      "11": { "start": "16:00", "end": "16:30" },
+      "12": { "start": "16:00", "end": "18:00" }
+    },
+    "MDSE": {
+      "3": { "type": "online" },
+      "4": { "type": "online" },
+      "8": { "type": "online" },
+      "9": { "type": "in-person", "end": "17:45" },
+      "10": { "type": "in-person", "end": "17:45" },
+      "11": { "type": "online" },
+      "12": { "type": "online" },
+      "13": { "hidden": true },
+      "14": { "start": "16:00", "end": "20:00" }
+    },
+    "MDSE Lab": {
+      "1": { "type": "in-person", "group": "A" }, "2": { "type": "in-person", "group": "B" },
+      "3": { "type": "online", "group": "A" }, "4": { "type": "online", "group": "B" },
+      "5": { "type": "in-person", "group": "A" }, "6": { "type": "in-person", "group": "B" },
+      "7": { "type": "in-person", "group": "A" }, "8": { "type": "in-person", "group": "B" },
+      "9": { "type": "in-person", "start": "17:45", "end": "19:45" }, "10": { "type": "in-person", "start": "17:45", "end": "19:45" },
+      "11": { "type": "online", "group": "A" }, "12": { "type": "online", "group": "B" },
+      "13": { "hidden": true },
+      "14": {
+        "type": "in-person",
+        "start": "14:00",
+        "end": "16:00",
+        "note": "Laboratory for students who need to recover one activity (practical work or test) with a penalty - not possible if you arrive late."
+      }
+    },
+    "DSE": {
+      "10": { "hidden": true },
+      "12": { "start": "14:00", "end": "18:00" },
+      "13": { "type": "in-person", "location": "Canti CTI", "start": "17:00", "end": "18:00" },
+      "14": { "type": "online", "start": "14:00", "end": "19:00" }
+    },
+    "DSE Lab": {
+      "11": { "type": "online" },
+      "12": { "hidden": true }
+    },
+    "ATCN": {
+      "14": { "day": 5 }
+    },
+    "CSW Lab": {
+      "6": { "day": 5, "start": "10:00", "end": "12:00", "type": "online" }
+    },
+    "SM Lab": {
+      "3": { "type": "in-person", "group": "A" }, "4": { "type": "in-person", "group": "B" },
+      "5": { "type": "in-person", "group": "A" }, "6": { "type": "in-person", "group": "B" },
+      "7": { "type": "in-person", "group": "A" }, "8": { "type": "in-person", "group": "B" },
+      "9": { "type": "in-person", "group": "A" }, "10": { "type": "in-person", "group": "B" },
+      "11": { "type": "in-person", "group": "A" }, "12": { "type": "in-person", "group": "B" },
+      "13": { "type": "in-person" },
+      "14": { "type": "online" }
+    },
+    "Research 2": {
+      "1": { "hidden": true }, "2": { "hidden": true }, "3": { "hidden": true }, "4": { "hidden": true }, "5": { "hidden": true }, "6": { "hidden": true }, "7": { "hidden": true }, "8": { "hidden": true }, "9": { "hidden": true }, "10": { "hidden": true }, "11": { "hidden": true }, "12": { "hidden": true }, "13": { "hidden": true }, "14": { "start": "17:00", "end": "19:00" }
+    },
+    "ATCN Lab": {}
+  },
+  "classTitles": {
+    "CSW": { "full": "Computing in the Semantic Web", "short": "CSW" },
+    "CSW Lab": { "full": "Computing in the Semantic Web (Lab)", "short": "CSW Lab" },
+    "DSE": { "full": "Distributed Software Engineering", "short": "DSE" },
+    "DSE Lab": { "full": "Distributed Software Engineering (Lab)", "short": "DSE Lab" },
+    "SM": { "full": "Software Methodologies", "short": "SM" },
+    "SM Lab": { "full": "Software Methodologies (Lab)", "short": "SM Lab" },
+    "MDSE": { "full": "Model Driven Software Engineering", "short": "MDSE" },
+    "MDSE Lab": { "full": "Model Driven Software Engineering (Lab)", "short": "MDSE Lab" },
+    "Research 2": { "full": "Research 2", "short": "Research 2" },
+    "ATCN": { "full": "Advanced Topics in Computer Networks", "short": "ATCN" },
+    "ATCN Lab": { "full": "Advanced Topics in Computer Networks (Lab)", "short": "ATCN Lab" }
+  },
+  "courseLinks": {
+    "CSW": { "moodle": "https://curs.upb.ro/2025/course/view.php?id=9702" },
+    "DSE": { "moodle": "https://curs.upb.ro/2025/course/view.php?id=9685" },
+    "SM": { "moodle": "https://curs.upb.ro/2025/course/view.php?id=9686" },
+    "MDSE": { "moodle": "https://curs.upb.ro/2025/course/view.php?id=9684" },
+    "ATCN": { "moodle": "https://curs.upb.ro/2025/course/view.php?id=9687" }
+  },
+  "groups": {
+    "A": [
+      { "day": 1, "start": "17:00", "end": "19:00", "name": "CSW", "location": "online", "teamsLink": "https://teams.microsoft.com/l/team/19%3AMcHMVM5QoroLJ-rpLJN0C9Z2Y7TfHRjgPFBCjiHMBVo1%40thread.tacv2/conversations?groupId=0c9f1bdc-e5f7-4036-8aba-099d1c9370c5&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 2, "start": "14:00", "end": "16:00", "name": "DSE Lab", "location": "online", "onDemand": true, "teamsLink": "https://teams.microsoft.com/l/team/19%3AgNVQExuiCC5CLx4_jLtAZIY9Khc79FoBqrKG-wPeL5A1%40thread.tacv2/conversations?groupId=a7da6275-69e7-4865-897b-01cc95edd1e1&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 2, "start": "16:00", "end": "18:00", "name": "DSE", "location": "online", "teamsLink": "https://teams.microsoft.com/l/channel/19%3Ab781478a75494d0bb1295687da38e2a9%40thread.tacv2/Lecture%20(Tuesday%204-6%20PM)?groupId=a7da6275-69e7-4865-897b-01cc95edd1e1&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 2, "start": "18:00", "end": "20:00", "name": "SM Lab", "location": "CJ205", "onDemand": true, "teamsLink": "https://teams.microsoft.com/l/team/19%3ATFJdzWZJ6piEFNA9xTV7UBQacDlLqGFJWBgMqi6R9ek1%40thread.tacv2/conversations?groupId=2fd22517-1dbb-474c-b2ea-264bed10fa02&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 3, "start": "09:00", "end": "11:00", "name": "CSW Lab", "location": "online", "biWeeklyFromWeek": 2, "onlineNote": "Google Meet link\non Whatsapp", "onlineNoteHref": "https://chat.whatsapp.com/" },
+      { "day": 3, "start": "16:00", "end": "18:00", "name": "MDSE", "location": "PR408", "teamsLink": "https://teams.microsoft.com/l/team/19%3AtX7I3W0QFG-BanjpOIkVINfj-VfiOr-VPQedM9gdc801%40thread.tacv2/conversations?groupId=787398d1-38e2-4171-9fa9-d2666c22f29c&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 3, "start": "18:00", "end": "20:00", "name": "MDSE Lab", "location": "PR408", "onDemand": true, "teamsLink": "https://teams.microsoft.com/l/team/19%3AtX7I3W0QFG-BanjpOIkVINfj-VfiOr-VPQedM9gdc801%40thread.tacv2/conversations?groupId=787398d1-38e2-4171-9fa9-d2666c22f29c&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 4, "start": "08:00", "end": "10:00", "name": "SM", "location": "online", "teamsLink": "https://teams.microsoft.com/l/team/19%3ATFJdzWZJ6piEFNA9xTV7UBQacDlLqGFJWBgMqi6R9ek1%40thread.tacv2/conversations?groupId=2fd22517-1dbb-474c-b2ea-264bed10fa02&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 4, "start": "17:00", "end": "18:00", "name": "Research 2", "location": "TBA" },
+      { "day": 4, "start": "18:00", "end": "20:00", "name": "ATCN", "location": "online", "teamsLink": "https://teams.microsoft.com/l/team/19%3AW9zlX6L5LMFvdLm8int-ua_ifuPhJNKAUAAlhSPh19U1%40thread.tacv2/conversations?groupId=0ec5c24c-6cb1-4da7-af2e-bc4aeaf73068&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 5, "start": "17:00", "end": "19:00", "name": "ATCN Lab", "location": "online", "onDemand": true, "teamsLink": "https://teams.microsoft.com/l/team/19%3AW9zlX6L5LMFvdLm8int-ua_ifuPhJNKAUAAlhSPh19U1%40thread.tacv2/conversations?groupId=0ec5c24c-6cb1-4da7-af2e-bc4aeaf73068&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" }
+    ],
+    "B": [
+      { "day": 1, "start": "17:00", "end": "19:00", "name": "CSW", "location": "online", "teamsLink": "https://teams.microsoft.com/l/team/19%3AMcHMVM5QoroLJ-rpLJN0C9Z2Y7TfHRjgPFBCjiHMBVo1%40thread.tacv2/conversations?groupId=0c9f1bdc-e5f7-4036-8aba-099d1c9370c5&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 2, "start": "14:00", "end": "16:00", "name": "DSE Lab", "location": "online", "onDemand": true, "teamsLink": "https://teams.microsoft.com/l/team/19%3AgNVQExuiCC5CLx4_jLtAZIY9Khc79FoBqrKG-wPeL5A1%40thread.tacv2/conversations?groupId=a7da6275-69e7-4865-897b-01cc95edd1e1&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 2, "start": "16:00", "end": "18:00", "name": "DSE", "location": "online", "teamsLink": "https://teams.microsoft.com/l/channel/19%3Ab781478a75494d0bb1295687da38e2a9%40thread.tacv2/Lecture%20(Tuesday%204-6%20PM)?groupId=a7da6275-69e7-4865-897b-01cc95edd1e1&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 2, "start": "18:00", "end": "20:00", "name": "SM Lab", "location": "CJ205", "onDemand": true, "teamsLink": "https://teams.microsoft.com/l/team/19%3ATFJdzWZJ6piEFNA9xTV7UBQacDlLqGFJWBgMqi6R9ek1%40thread.tacv2/conversations?groupId=2fd22517-1dbb-474c-b2ea-264bed10fa02&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 3, "start": "09:00", "end": "11:00", "name": "CSW Lab", "location": "online", "biWeeklyFromWeek": 2, "onlineNote": "Google Meet link\non Whatsapp", "onlineNoteHref": "https://chat.whatsapp.com/" },
+      { "day": 3, "start": "16:00", "end": "18:00", "name": "MDSE", "location": "PR408", "teamsLink": "https://teams.microsoft.com/l/team/19%3AtX7I3W0QFG-BanjpOIkVINfj-VfiOr-VPQedM9gdc801%40thread.tacv2/conversations?groupId=787398d1-38e2-4171-9fa9-d2666c22f29c&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 3, "start": "18:00", "end": "20:00", "name": "MDSE Lab", "location": "PR408", "onDemand": true, "teamsLink": "https://teams.microsoft.com/l/team/19%3AtX7I3W0QFG-BanjpOIkVINfj-VfiOr-VPQedM9gdc801%40thread.tacv2/conversations?groupId=787398d1-38e2-4171-9fa9-d2666c22f29c&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 4, "start": "08:00", "end": "10:00", "name": "SM", "location": "online", "teamsLink": "https://teams.microsoft.com/l/team/19%3ATFJdzWZJ6piEFNA9xTV7UBQacDlLqGFJWBgMqi6R9ek1%40thread.tacv2/conversations?groupId=2fd22517-1dbb-474c-b2ea-264bed10fa02&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 4, "start": "17:00", "end": "18:00", "name": "Research 2", "location": "TBA" },
+      { "day": 4, "start": "18:00", "end": "20:00", "name": "ATCN", "location": "online", "teamsLink": "https://teams.microsoft.com/l/team/19%3AW9zlX6L5LMFvdLm8int-ua_ifuPhJNKAUAAlhSPh19U1%40thread.tacv2/conversations?groupId=0ec5c24c-6cb1-4da7-af2e-bc4aeaf73068&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" },
+      { "day": 5, "start": "17:00", "end": "19:00", "name": "ATCN Lab", "location": "online", "onDemand": true, "teamsLink": "https://teams.microsoft.com/l/team/19%3AW9zlX6L5LMFvdLm8int-ua_ifuPhJNKAUAAlhSPh19U1%40thread.tacv2/conversations?groupId=0ec5c24c-6cb1-4da7-af2e-bc4aeaf73068&tenantId=2d8cc8ba-8dda-4334-9e5c-fac2092e9bac" }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "entries": [
+    {
+      "date": "2026-09-28",
+      "items": [
+        "New semester started 28 Sep 2026; teaching weeks 1-12 run 28 Sep - 20 Dec 2026, weeks 13-14 run 11 Jan - 22 Jan 2027 (winter holiday 19 Dec 2026 - 10 Jan 2027 is not counted).",
+        "Winter holiday weeks are still shown in the calendar as free days titled “Winter Holiday” instead of a week number.",
+        "Exams calendar set to 23 Jan - 12 Feb 2027.",
+        "Free days added: 30 Nov 2026, 1 Dec 2026, 25 Dec 2026, 1 Jan 2027, 6 Jan 2027, 7 Jan 2027.",
+        "AOSE (Agent-Oriented Software Engineering): added Monday 17:00–19:00 in EG404 for both groups; no class on 28 Sep (week 1).",
+        "AOSE Lab: added Monday 19:00–21:00 in EG404, alternating weekly (Group A on odd weeks from week 3, Group B on even weeks from week 2); no lab on 28 Sep (week 1).",
+        "Ethics: added Tuesday 16:00–18:00 online for both groups, starting 6 Oct (week 2); no class on 29 Sep (week 1).",
+        "STSE (Special Topics in Software Engineering, Course + Lab): added Tuesday 18:00–21:00 in CJ007 for both groups, starting 29 Sep (week 1).",
+        "ST (Software Testing, Course + Lab): added Wednesday 18:00–21:00 in CJ205 for both groups, starting 30 Sep (week 1).",
+        "SA (Software Architecture): added Thursday 16:00–18:00 in CJ007 for both groups, starting 1 Oct (week 1).",
+        "SA Lab: added Wednesday online, alternating weekly (Group A 08:00–10:00 on odd weeks from week 1, Group B 12:00–14:00 on even weeks from week 2).",
+        "SPM (Software Project Management): added Thursday 18:00–20:00 in CANTI-CTI for both groups, starting 1 Oct (week 1).",
+        "SPM Lab: added Thursday 20:00–22:00 in CANTI-CTI, alternating weekly (Group A on odd weeks from week 1, Group B on even weeks from week 2).",
+        "App: selected group (A/B) is now remembered in the browser (local storage).",
+        "App: display weekends and calendar export options (whole week, days, reminders, optional classes) are now also remembered in the browser.",
+        "AOSE: added notes (lab evaluated every week — thanks to Suha).",
+        "App: every calendar card now opens the notes pop-up, even when it has no notes yet.",
+        "App: compact mobile header — title and buttons share one line when space allows.",
+        "App: course notes pop-up now opens above the Courses List pop-up."
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "items": [
+        "SM: deadline “Upload missing labs/HWs/Certificates on Moodle” moved to 26 May (both groups)."
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "items": [
+        "SM Lab week 14 (26 May): Project (Big HW 1+2) presentation changed to online for both groups.",
+        "CSW exam (8 June): added note \u201cNo threshold for exam\u201d."
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "items": [
+        "DSE: deadline “Registration for project final presentation” due 26 May (both groups); notes include May 19/26 presentation sessions and Teams registration link.",
+        "DSE: test “Presentation of final project” week 14 (26 May), both groups, 14:00–19:00 online; private presentations with screen share.",
+        "DSE: deadline “[Phase 4] Final report” due 28 May (both groups); soft 28 May, hard 29 May noon; Moodle assign 182809.",
+        "MDSE: deadline “Case study delivery for all students” due 25 May (both groups)",
+        "MDSE Lab week 14 (27 May): 14:00–16:00 in-person for both groups; recovery lab timeslot note.",
+        "SM: deadline “Project (Big HW1+2) upload on Moodle” due 26 May (both groups)",
+        "SM: Big HW upload notes — until 6:00 PM;",
+        "SM: New deadline 29 May “Upload missing labs/HWs/Certificates on Moodle” (both groups).",
+        "MDSE: “Case study questions, no presentation” test notes — respect professor schedule; PDF link added."
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "items": [
+        "DSE: Deadline 18 May for both Test Registration (choice closes 19 May 11:00)",
+        "DSE: Test 19 May 17:00–18:00 physically, prepare by reading Moodle lecture slides folder."
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "items": [
+        "DSE week 12 (12 May): lecture slot changed to 14:00-18:00"
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "items": [
+        "MDSE week 13 (20 May): removed case study, no course, no lab (teacher is at a conference)",
+        "MDSE week 14: updated case study to “Case study questions, no presentation (20% grade)” for both groups; notes now say both groups must be present and only questions will be asked.",
+        "MDSE Lab week 14 (27 May) 14:00-16:00 (recovery from previous week).",
+        "ATCN week 14: moved lecture from Thursday 28 May to Friday 29 May (same time)."
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "items": [
+        "Research 2: deadline “Send research progress to coordinator” due 11 May (notes include grade recommendation from coordinator); removed generic “Reminder to work on your research paper” deadline.",
+        "Research 2: Thursday 17:00–18:00 slot (TBA) in week 14; “Research presentation” (both groups).",
+        "DSE: “Test DSE (10% grade)” in week 13 at usual lecture time (16:00–18:00, both groups)",
+        "DSE: Homework “[Phase 3] Intermediary work report” due 13 May (soft/hard deadlines in notes).",
+        "SM Lab: SM Lab tests — “Project (Big HW 1+2) presentation (20% grade)”, Group A week 13 and Group B week 14",
+        "SM Lab Lab 7: deadlines Group A 12 May and Group B 19 May (Moodle Lab 7 PDFs in notes).",
+        "ATCN: “Lab 9 on Moodle” due 15 May in Assignment 3 (both groups)",
+        "ATCN: “Project Computer Networks on Moodle” due 29 May (both groups).",
+        "MDSE: “Case study presentation (Group A)” week 13 (teacher wants to change timeslot) and “(Group B)” week 14;16:00–20:00 those weeks",
+        "Calendar notes pop-up: show event time span (e.g. 16:00–20:00) under the action buttons."
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "items": [
+        "DSE week 11: moved “Online - Presentation of Phase 1” from 16:00-18:00 to 14:00-16:00; DSE lecture remains 16:00-18:00.",
+        "DSE exam: set to 2 June at 17:00 and removed tentative warning status."
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "items": [
+        "SM Lab (Group B) Lab 6: added deadline",
+        "SM exam: 11 June at 16:00, check notes",
+        "ATCN exam: 5 June at 18:00, check notes",
+        "MDSE exam: 15 June depending on group from 8:00/9:00 AM, check notes",
+        "CSW: week 11 / 4 May lecture slot overridden to 16:00–16:30 in attendance data.",
+        "Homework: CSW Lab “Ontologies and Jena” due 13 May (both groups)",
+        "SM “Final project” entry for random date - 21 May (both groups) because due date is yet unknown",
+        "Teams and “Link on WhatsApp” moved off calendar cards into the notes pop-up (click on the card to open it), next to Add to calendar"
+      ]
+    }
+  ]
+}

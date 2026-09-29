@@ -1,0 +1,57 @@
+{
+  "freeDays": ["2026-11-30", "2026-12-01", "2026-12-25", "2027-01-01", "2027-01-06", "2027-01-07"],
+  "tests": [],
+  "exams": [],
+  "homeworks": [],
+  "courseNotes": {
+    "AOSE": "Laboratory is evaluated every week and grade is calculated based on that so come to the lab. (Thanks to Suha for the info)",
+    "AOSE Lab": "Laboratory is evaluated every week and grade is calculated based on that so come to the lab. (Thanks to Suha for the info)"
+  },
+  "attendanceByWeek": {
+    "AOSE": {
+      "1": { "hidden": true }
+    },
+    "AOSE Lab": {
+      "1": { "hidden": true }
+    },
+    "Ethics": {
+      "1": { "hidden": true }
+    }
+  },
+  "classTitles": {
+    "AOSE": { "full": "Agent-Oriented Software Engineering", "short": "AOSE" },
+    "AOSE Lab": { "full": "Agent-Oriented Software Engineering (Lab)", "short": "AOSE Lab" },
+    "Ethics": { "full": "Ethics", "short": "ETHICS" },
+    "STSE": { "full": "Special Topics in Software Engineering (Course + Lab)", "short": "STSE C+L" },
+    "ST": { "full": "Software Testing (Course + Lab)", "short": "ST C+L" },
+    "SA": { "full": "Software Architecture", "short": "SA" },
+    "SA Lab": { "full": "Software Architecture (Lab)", "short": "SA Lab" },
+    "SPM": { "full": "Software Project Management", "short": "SPM" },
+    "SPM Lab": { "full": "Software Project Management (Lab)", "short": "SPM Lab" }
+  },
+  "courseLinks": {},
+  "groups": {
+    "A": [
+      { "day": 1, "start": "17:00", "end": "19:00", "name": "AOSE", "location": "EG404" },
+      { "day": 1, "start": "19:00", "end": "21:00", "name": "AOSE Lab", "location": "EG404", "biWeeklyFromWeek": 1 },
+      { "day": 2, "start": "16:00", "end": "18:00", "name": "Ethics", "location": "online" },
+      { "day": 2, "start": "18:00", "end": "21:00", "name": "STSE", "location": "CJ007" },
+      { "day": 3, "start": "18:00", "end": "21:00", "name": "ST", "location": "CJ205" },
+      { "day": 3, "start": "08:00", "end": "10:00", "name": "SA Lab", "location": "online", "biWeeklyFromWeek": 1 },
+      { "day": 4, "start": "16:00", "end": "18:00", "name": "SA", "location": "CJ007" },
+      { "day": 4, "start": "18:00", "end": "20:00", "name": "SPM", "location": "CANTI-CTI" },
+      { "day": 4, "start": "20:00", "end": "22:00", "name": "SPM Lab", "location": "CANTI-CTI", "biWeeklyFromWeek": 1 }
+    ],
+    "B": [
+      { "day": 1, "start": "17:00", "end": "19:00", "name": "AOSE", "location": "EG404" },
+      { "day": 1, "start": "19:00", "end": "21:00", "name": "AOSE Lab", "location": "EG404", "biWeeklyFromWeek": 2 },
+      { "day": 2, "start": "16:00", "end": "18:00", "name": "Ethics", "location": "online" },
+      { "day": 2, "start": "18:00", "end": "21:00", "name": "STSE", "location": "CJ007" },
+      { "day": 3, "start": "18:00", "end": "21:00", "name": "ST", "location": "CJ205" },
+      { "day": 3, "start": "12:00", "end": "14:00", "name": "SA Lab", "location": "online", "biWeeklyFromWeek": 2 },
+      { "day": 4, "start": "16:00", "end": "18:00", "name": "SA", "location": "CJ007" },
+      { "day": 4, "start": "18:00", "end": "20:00", "name": "SPM", "location": "CANTI-CTI" },
+      { "day": 4, "start": "20:00", "end": "22:00", "name": "SPM Lab", "location": "CANTI-CTI", "biWeeklyFromWeek": 2 }
+    ]
+  }
+}
